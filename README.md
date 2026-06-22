@@ -1,7 +1,7 @@
 
 ## Hi, I'm Bruno👋
 
-Developer with 5 years of experience, graduated from Nove de Julho University, specialized in creating websites using C#, .NET Framework and .NET Core. With knowledge of programming languages such as HTML, CSS, JavaScript, and jQuery.
+Developer with 7+ years of experience, graduated from Nove de Julho University, specialized in creating websites using C#, .NET Framework and .NET Core. With knowledge of programming languages such as HTML, CSS, JavaScript, and jQuery.
 
 [![Linkedin Badge](https://img.shields.io/badge/-brunoldias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/bruno-louren%C3%A7o-520992172/)
 [![Instagram Badge](https://img.shields.io/badge/-brunoldias-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://www.instagram.com/bruno.lourenc0/)
